@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+
+  body {
+    background-image: url('../img/fondo.jpeg');
+  background-size:cover;
+  
+        -webkit-animation: slidein 100s;
+        animation: slidein 100s;
+
+        -webkit-animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
+
+        -webkit-animation-iteration-count: infinite;
+        animation-iteration-count: infinite;
+
+        -webkit-animation-direction: alternate;
+        animation-direction: alternate;              
+}
+
+@-webkit-keyframes slidein {
+from {background-position: top; background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+}
+
+@keyframes slidein {
+from {background-position: top;background-size:3000px; }
+to {background-position: -100px 0px;background-size:2750px;}
+    }
+    
+ 
+/*
+.Contenedor{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,auto);
+    grid-template-areas: "header        header      header      header"
+                         "BaseDatos     BaseDatos   Tablas      Tablas"   
+                         "Submit        Submit      Submit      Submit"
+                         "footer        footer      footer      footer";
+}
+*/
+/*
+.Contenedor .header{
+    grid-area: header;
+    text-align: center;
+}
+
+.Contenedor .header h1{
+    font-family: 'Press Start 2P', system-ui;
+    color: rgb(95, 255, 194);
+}
+
+.Contenedor .Contenido {
+    grid-area: Contenido;
+    color: blue;
+    text-align: center;
+}*/
+ /* input[type="text"]{
+    text-align: center;
+    width: 20%;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: rgb(22, 246, 250);
+    border-color: gray;
+} */
+
+/*
+select[id="tablas"]{
+    border-color: gray;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    background-color: rgb(200, 233, 234);
+    padding: 1rem;
+    width: 50%;
+}
+select[id="bds"]{
+    border-color: gray;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    background-color: rgb(200, 233, 234);
+    padding: 1rem;
+    width: 50%;
+}*/
+/*
+.servidor{
+    text-align: center;  
+}
+
+
+.Contenedor .BaseDatos{
+    grid-area: BaseDatos;
+    text-align: center;
+}
+
+.Contenedor .Tablas{
+    grid-area: Tablas;
+    text-align: center;
+}
+
+.Contenedor .Columnas{
+    grid-area: Columnas;
+    text-align: center;
+}
+
+.Contenedor .Submit{
+    grid-area: Submit;
+    text-align: center;
+}*/
+
+.der {
+    clear: none;
+    display: block;
+    font-weight: bold;
+    font-size: 10px;
+    visibility: visible;
+    color: #014A59;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    position: static;
+    text-decoration: none;
+
+}
+/*
+button[type="submit"]{
+    width: 10%;
+    height: 200%;
+    border-radius: 20vw;
+    background-color: greenyellow;
+    border-color: gray;
+    cursor: pointer;
+}*/
+/*}
+button[type="button"]{
+    width: 10%;
+    height: 200%;
+    border-radius: 20px;
+    background-color: orange;
+    border-color: gray;
+    cursor: pointer;
+}
+*/
+button[type="submit"]:hover {
+    opacity: 0.7;
+}
+
+button[type="button"]:hover {
+    opacity: 0.7;
+}
+/*
+@media screen and (max-width: 768px){
+    .Contenedor{
+        grid-template-columns: repeat(2,1fr);
+        grid-template-rows: repeat(5,auto);
+        grid-template-areas: "header    header"
+                             "BaseDatos BaseDatos"
+                             "Tablas    Tablas"
+                             "Submit    Submit"
+                             "footer    footer";
+
+                
+    }
+}
+*/
+footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #ffffff;
+
+  
+  }

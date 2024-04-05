@@ -1,0 +1,215 @@
+﻿Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe.
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Intento de detener el servicio Enmascarador Service.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Intento de detener el servicio Enmascarador Service.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Desinstalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Quitando el origen de EventLog Enmascarador Service.
+Se está quitando el servicio Enmascarador Service del sistema...
+El servicio Enmascarador Service se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Instalando el servicio Enmascarador Service...
+El servicio Enmascarador Service se ha instalado correctamente.
+Creando el origen de EventLog Enmascarador Service en el registro Application...
+Confirmando ensamblado 'C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.InstallLog
+   assemblypath = C:\work\2.RESERVADA\Clientes\TESTERS\EnmascaradorService\EnmascaradorService\bin\Debug\EnmascaradorService.exe
+Installing assembly 'C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.InstallLog
+   assemblypath = C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.exe
+Installing service Enmascarador Service...
+Service Enmascarador Service has been successfully installed.
+Creating EventLog source Enmascarador Service in log Application...
+Committing assembly 'C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.InstallLog
+   assemblypath = C:\Compartida\Enmascarador\Servicio_Enmascarador\EnmascaradorService.exe
